@@ -1,2 +1,4 @@
 # SkylandsPlus
-Updated version of SkylandsPlus by Betterphp
+
+No longer being maintained. Please fork and update if you would like to continue it.
+
